@@ -1,0 +1,3 @@
+The content in this file is created from a pyhton code
+The content will later be read and appended using python code again
+Content added by a python code
