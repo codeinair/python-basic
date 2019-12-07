@@ -1,2 +1,2 @@
 # python-basic
-Basic python programs
+Basic python programs and AI/ML implementation using python
